@@ -38,6 +38,8 @@ npm run build   # tip kontrolü + üretim derlemesi
 
 Supabase projesi: `otomatik-uygulamalar` (`qjiurxkgzzlqqemkzgli`). Tablolar `kb_` önekiyle başlar; şema ve fonksiyonlar `docs/TASARIM.md` Bölüm 9'da.
 
+`kb_tahmin` testleri `supabase/tests/kb_tahmin_test.sql` dosyasında. Dosyayı SQL Editor'de çalıştır; her şey tek işlemde yapılıp geri alınır. Hata çıkmazsa tüm testler geçmiştir.
+
 ## Yayınlama
 
 ### Web (GitHub Pages)
